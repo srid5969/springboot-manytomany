@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.many.tomany.ManyToManyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.664 s <<< FAILURE! - in com.many.tomany.ManyToManyApplicationTests
+contextLoads  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: mappedBy reference an unknown target entity property: com.many.tomany.student.model.Student.tags in com.many.tomany.course.model.Course.student
+Caused by: org.hibernate.AnnotationException: mappedBy reference an unknown target entity property: com.many.tomany.student.model.Student.tags in com.many.tomany.course.model.Course.student
+

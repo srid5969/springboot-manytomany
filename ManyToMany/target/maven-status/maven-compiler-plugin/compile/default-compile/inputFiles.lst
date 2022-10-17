@@ -1,0 +1,9 @@
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/ManyToManyApplication.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/student/restcontroller/StudentController.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/course/repository/CourseRepository.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/student/model/Student.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/student/repository/StudentRepository.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/course/model/Course.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/course/restcontroller/CourseController.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/student/service/StudentService.java
+/home/innovix00/Documents/waste/manytomany/ManyToMany/src/main/java/com/many/tomany/course/service/CourseService.java

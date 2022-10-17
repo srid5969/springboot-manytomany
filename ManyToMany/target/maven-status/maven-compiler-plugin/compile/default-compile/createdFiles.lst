@@ -1,0 +1,9 @@
+com/many/tomany/course/repository/CourseRepository.class
+com/many/tomany/student/repository/StudentRepository.class
+com/many/tomany/student/model/Student.class
+com/many/tomany/course/model/Course.class
+com/many/tomany/student/service/StudentService.class
+com/many/tomany/ManyToManyApplication.class
+com/many/tomany/student/restcontroller/StudentController.class
+com/many/tomany/course/service/CourseService.class
+com/many/tomany/course/restcontroller/CourseController.class
