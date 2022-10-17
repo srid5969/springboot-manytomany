@@ -1,0 +1,10 @@
+com/bezkoder/spring/hibernate/manytomany/SpringBootManyToManyApplication.class
+com/bezkoder/spring/hibernate/manytomany/exception/ErrorMessage.class
+com/bezkoder/spring/hibernate/manytomany/exception/ResourceNotFoundException.class
+com/bezkoder/spring/hibernate/manytomany/repository/TutorialRepository.class
+com/bezkoder/spring/hibernate/manytomany/controller/TutorialController.class
+com/bezkoder/spring/hibernate/manytomany/repository/TagRepository.class
+com/bezkoder/spring/hibernate/manytomany/exception/ControllerExceptionHandler.class
+com/bezkoder/spring/hibernate/manytomany/model/Tag.class
+com/bezkoder/spring/hibernate/manytomany/controller/TagController.class
+com/bezkoder/spring/hibernate/manytomany/model/Tutorial.class

@@ -1,0 +1,10 @@
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/model/Tutorial.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/model/Tag.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/exception/ErrorMessage.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/controller/TagController.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/exception/ControllerExceptionHandler.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/repository/TutorialRepository.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/SpringBootManyToManyApplication.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/exception/ResourceNotFoundException.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/controller/TutorialController.java
+/home/innovix00/Documents/waste/spring-boot-many-to-many-master/src/main/java/com/bezkoder/spring/hibernate/manytomany/repository/TagRepository.java
