@@ -21,7 +21,7 @@ import com.many.tomany.student.model.Student;
 public class Course {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+//	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column
 	private long id;
 	private String name;
