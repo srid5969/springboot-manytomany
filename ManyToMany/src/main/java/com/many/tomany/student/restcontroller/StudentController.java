@@ -20,7 +20,7 @@ public class StudentController {
 	@Autowired
 	private StudentService service;
 	
-	@GetMapping
+	@GetMapping("/get")
 	public List<Student> listAllTHeStudents(){
 		return service.listAllTheStudentsDetails();
 	}
